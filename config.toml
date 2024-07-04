@@ -1,11 +1,11 @@
 [fuiz]
 max_slides_count = 100
-max_title_length = 200
+max_title_length = 400
 max_player_count = 1000
 
 [fuiz.multiple_choice]
 min_title_length = 0
-max_title_length = 200
+max_title_length = 400
 min_introduce_question = 1
 max_introduce_question = 30
 min_time_limit = 5
